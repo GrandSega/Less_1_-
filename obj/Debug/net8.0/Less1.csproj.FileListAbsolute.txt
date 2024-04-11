@@ -1,0 +1,14 @@
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\bin\Debug\net8.0\Less1.exe
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\bin\Debug\net8.0\Less1.deps.json
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\bin\Debug\net8.0\Less1.runtimeconfig.json
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\bin\Debug\net8.0\Less1.dll
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\bin\Debug\net8.0\Less1.pdb
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.AssemblyInfoInputs.cache
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.AssemblyInfo.cs
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.csproj.CoreCompileInputs.cache
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.dll
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\refint\Less1.dll
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.pdb
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\Less1.genruntimeconfig.cache
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\obj\Debug\net8.0\ref\Less1.dll
