@@ -1,0 +1,15 @@
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.AssemblyInfoInputs.cache
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.AssemblyInfo.cs
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.csproj.CoreCompileInputs.cache
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.sourcelink.json
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\bin\Debug\net8.0\ask_2.exe
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\bin\Debug\net8.0\ask_2.deps.json
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\bin\Debug\net8.0\ask_2.runtimeconfig.json
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\bin\Debug\net8.0\ask_2.dll
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\bin\Debug\net8.0\ask_2.pdb
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.dll
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\refint\ask_2.dll
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.pdb
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ask_2.genruntimeconfig.cache
+D:\GB\Hellow world\Знакомство с языками програмирования\Less1\ask_2\obj\Debug\net8.0\ref\ask_2.dll
