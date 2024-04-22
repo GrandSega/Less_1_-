@@ -1,4 +1,6 @@
-﻿int i1 = 5;
+﻿
+//int i1 = 5;
+int i1 = 5;
 int i2 = 6;
 int sum = i1 + i2;  
 Console.WriteLine(sum);
@@ -15,4 +17,11 @@ long product2 = l1 * i2;
 double product3 = i1 * d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
-Console.WriteLine(product3);
+
+
+int quotient = i1 / i2;
+Console.WriteLine(quotient); 
+
+d1 = 6;
+double quotient2 = i1 / d2;
+Console.WriteLine(quotient2);
